@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{6B97CDD1-60F2-43A1-A642-C5EEF8FC9F57}">
+	<children>
+		<child name="mytestrepo" key="{C7FE89C6-16C3-4CB2-A430-AE0FABBC45DF}" path="mytestrepo\mytestrepo.mds" />
+	</children>
+	<testItems key="{C9C0B2DF-958E-4E32-91BC-04DD8045B390}">
+		<children>
+			<testItem key="{C7FE89C6-16C3-4CB2-A430-AE0FABBC45DF}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{825BAE28-EA2C-4F60-886B-882A998CFC1C}" />
+	<analysis key="{9A0B182F-3B1B-46BF-9AEC-14B2B59BC810}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
